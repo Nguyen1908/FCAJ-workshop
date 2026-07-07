@@ -20,6 +20,6 @@ Các điểm chính cần nắm:
 
 Đây là một case study đáng tham khảo cho các tổ chức muốn triển khai RAG production-ready ở quy mô nhiều phòng ban, đặc biệt là cách kết hợp Amazon Bedrock Knowledge Bases với Amazon Verified Permissions để vừa mở rộng tốt vừa đảm bảo bảo mật dữ liệu chặt chẽ.
 
-...Hình ảnh...![alt text](blog3_image.png)![alt text](blog3_image-1.png)![alt text](blog3_image-2.png)
+...Hình ảnh...![alt text](/images/3-BlogsPosted/blog3_image.png)![alt text](/images/3-BlogsPosted/blog3_image-1.png)![alt text](/images/3-BlogsPosted/blog3_image-2.png)
 
 Bài viết gốc: https://aws.amazon.com/vi/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions/
