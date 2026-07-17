@@ -7,7 +7,7 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Bùi
+&emsp; **Họ và tên:** Bùi Cao Nguyên
 
 &emsp; **Số điện thoại:** 0865457327
 
